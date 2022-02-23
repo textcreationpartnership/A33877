@@ -1,0 +1,757 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Collection of the several addresses in the late King James's time concerning the conception and birth of the pretended Prince of Wales.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33877</idno>
+            <idno type="STC">Wing C5208</idno>
+            <idno type="STC">ESTC T148945</idno>
+            <idno type="EEBO-CITATION">09790577</idno>
+            <idno type="OCLC">ocm 09790577</idno>
+            <idno type="VID">44081</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44081)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1353:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Collection of the several addresses in the late King James's time concerning the conception and birth of the pretended Prince of Wales.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James, --  Prince of Wales, 1688-1766.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="statements_of_congratulation_following_conception">
+            <pb n="1" facs="tcp:44081:1" rendition="simple:additions"/>
+            <head>
+               <hi>A Collection of the ſeveral</hi> ADDRESSES <hi>in the late King</hi> JAMES's <hi>Time: Concerning the</hi> Conception <hi>and</hi> Birth <hi>of the Prince of</hi> WALES.</head>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The bumble Addreſs of the Comptroler, and other Members of the Society of the</hi> Inner-Temple.</p>
+               </argument>
+               <p>PArdon us, Great Sir, if the fear of being thought ungrateful, for the greateſt Bounty, puts us upon the hazard of being thought too bold, in approaching your Sacred Perſon, to offer our moſt humble and Hearty Tribute of Thanks, for your moſt Gracious <hi>Declaration</hi> of <hi>Indulgence;</hi> and continued to us and all our Subjects, your Royal Aſſent and Protection, in a free Choice and Exerciſe of our Religion; a Bleſſing that could flow from none but the Beſt and Wiſeſt of Princes, whoſe Royal Thoughts are wholly taken up, how to make our Religion as free as our Proper<g ref="char:EOLhyphen"/>ty; a Bleſſing which juſt Heaven (which ever over-pays all good Actions) has evidently Demonſtrated to be Grateful and Acceptable, by ſhowring down the Bleſſing of Fruitful<g ref="char:EOLhyphen"/>neſs on your Royal Conſort. May the <hi>ROYAL ISSUE</hi> live to be the Joy of your moſt Sacred Majeſty, the Delight of all Mankind, a ſafeguard to your Friends, and Terrour to your Enemies; and may Heaven continue its Favours on your Majeſties, and your Sacred Poſterity. This, Great Sir, is the Prayer of us,</p>
+               <closer>
+                  <signed>Your moſt Dutiful and Obedient Subjects.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The humble Addreſs of the Mayor, Recorder, Aldermen, Sheciffs, Common-Council-men, Grand Jury, and Borough Jury, of your Majeſties City and County of the City oſ</hi> Glouceſter, <hi>from the General; Quarter Seſſions there held this 2th day of</hi> January, <hi>in the Year of our Lord 1687.</hi>
+                  </p>
+               </argument>
+               <opener>
+                  <salute>Dread Sovereign,</salute>
+               </opener>
+               <p>THE Reaſon and Equity of a General Indulgence, for matters of meer Religion, is ſo manifeſtain it ſelf, and ſo clearly Illuſtrated by your Majeſties gracious <hi>De<g ref="char:EOLhyphen"/>claration</hi> for it, tim to all that we can ſay on that Subject, can but reſemble an Eclipſe of the sun, by the Interpoſition of a meaner Light. Nothing then can be more our Du<g ref="char:EOLhyphen"/>ty, both as Chriſtians and Subjects, than firſt to render unto Almighty God, in whoſe Hands are the Hearos of Kings, our hearty Thanks, for putting it into the King's Heart to do ſo good Things for his People.</p>
+               <p>Next, in all Humility, to expreſs not only our Acquieſcence, but height of Satisfac<g ref="char:EOLhyphen"/>tion, in your Majeſties ſo Pious, ſo Prudent, ſo Charitable, and Kind a Determination towards all your Subjects; to aſſure your Majeſty of our united and utmoſt Endeavours, to Elect for Parliament, when called, ſuch Members as we may reaſonably hope, ſhall joyfully and readily meet and join with your Majeſty therein; and likewiſe in the Re<g ref="char:EOLhyphen"/>peal of the two <hi>Teſt-Acts,</hi> ſo ſubject to dangerous Interpretations.</p>
+               <p>Yet, at laſt, we humbly crave leave, to Congratulate with your Majeſty, the Bleſſing of your Royal Conſorts CONCERTION, which we conſider as the Reward of Heaven up<g ref="char:EOLhyphen"/>on this your unparallel'd Goodneſs, and, with the moſt fervent Zeal, offer up our Prayers to Almighty God, that ſhe may, to the unſpeakable Happineſs of all your Kingdoms, produce. you a <hi>SON,</hi> as much the Image of your Heroick Mind, as the Product of your Royal Body.</p>
+               <closer>
+                  <signed>Subſcribed alſo by the ſaid Grand Jury, and Burough Jury conſenting, &amp;c.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The humble Addreſs of your Majeſties moſt Layal and Dutiful Subjects, of your Antient Corpo<g ref="char:EOLhyphen"/>ration of</hi> Portſmouth.</p>
+               </argument>
+               <p>PReſume humbly to hope, that our hearty Acknowledgments, tho' late, for your gracious Indulgence, may be honoured with a favourable Aſpecr, ſince they give precedency to none, in Gratitude and Loyalty. The many and happy Bleſſings that vi<g ref="char:EOLhyphen"/>ſibly attend this your Royal <hi>Declaration,</hi> inſtruct us, that the Councils of Princes are no
+<pb n="2" facs="tcp:44081:2"/> leſs the immediate Concern of the Wiſdom of the Almighty, than the Protection of their Perſons is of his Power. This one Act, moſt Gracious Sovereign, has diſperſed all the Fears and Apprehenſions of Fire and Faggot, under your Majeſties Reign, which the wicked Enemies of your Sacred Majeſties Perſon and Religion, had maliciouſly diſtill'd into the Minds of too many of your credulous Subjects; this has confirmed to us our Liber<g ref="char:EOLhyphen"/>ties and Properties; this hath eſtabliſhed Peace and Charity in the Minds of the Diſ<g ref="char:EOLhyphen"/>ſenting Brethren in Opinion, and ſhaded all your Loving Subjects from the troubleſom Heats of Perſecution, under the Wings of your Royal Protection. In ſine, Great Sir, it is an Act ſo tranſcendently Good, that, it ſeems to us, Heaven could not reward it with a leſs Bleſſing, than what it has been pleaſed to beſtow at this preſent upon your Royal Conſort; nor will we be wanting to contribute all that lies in us, to the perpe<g ref="char:EOLhyphen"/>tuating of this Happineſs to Poſterity: For when it ſhall ſeem fit to your Princely Wiſ<g ref="char:EOLhyphen"/>dom to Summon a Parliament, we do hereby engage our ſelves, to Elect ſuch Mem<g ref="char:EOLhyphen"/>bers as ſhall Vote for the Repealing ſuch Laws as obviate your Gracious Intentions in your Declaration. Whoever now preſumes to oppoſe and ſpurn at this your Royal Goodneſs, becomes not only ungrateful to their Country, but to Heaven alſo. And now, moſt Glorious Monarch, that the Eternal Providence may ever Guide and Pro<g ref="char:EOLhyphen"/>ſper all your Councils and Undertakings; that the growing Hopes of the <hi>ROYAL WOMB</hi> may bloſſom and flouriſh to a mature Perfection, and your Majeſty enjoy a long and hap<g ref="char:EOLhyphen"/>py Reign over us, is the hearty Prayers of all.</p>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The humble Addreſs of the Grand Jury for your County of</hi> Buckingham, <hi>at the Aſſizes held at</hi> Ailsbury <hi>for the ſaid County, the 5th day of</hi> March, <hi>in the fourth Year of your Majeſties Reign,</hi> Anno Dom. 1687.</p>
+               </argument>
+               <opener>
+                  <salute>Moſt Dread and Gracious Sovereign,</salute>
+               </opener>
+               <p>WE your Majeſties moſt Dutiful and Loyal Subjects of the County of <hi>Buckingham,</hi> being deeply Senſible of the great Happineſs we enjoy under your Majeſties Reign and Government, tender our moſt hearty Thanks to Almighty God, in whoſe Hands are the Hearts of Kings, that he has been graciouſly pleaſed to put into your Roval Heart, the means which have effectually procured it; not doubting your late gra<g ref="char:EOLhyphen"/>cious <hi>Declaration,</hi> for Indulgence and free Liberty of Conſcience, to be the Copy of his Sacred and Divine Will, who has commanded us all to live in Peace and Charity with one another. The Bleſſing which Heaven has beſtowed upon your Royal Conſort, is to us a convincing Argument, that you have your Directions for the well management of your three Kingdoms, from that great Court; and we think we are obliged in Grati<g ref="char:EOLhyphen"/>tude and Duty, to uſe our utmoſt Endeavours towards the removing thoſe Impediments which may obſtruct your Royal Intentions, tending ſo much to our Good and Welfare; which we cannot perform better, than (when you ſhall pleaſe to call a Parliament) by chuſing ſuch Men as are entirely diſpoſed to take off the <hi>Teſts,</hi> and the <hi>Penal Laws.</hi> This we in all Sincerity promiſe to do to the utmoſt of our Power, and ſhall with moſt fer<g ref="char:EOLhyphen"/>vent Zeal offer our Prayers to Almighty God, that he would moſt graciouſly Pleaſe, not only to grant your Majeſty a long and proſperous Reign, but that the Iſſue of your Royal Conſort may prove a <hi>SON,</hi> which may inherit ſoon his Royal Fathers Virtues, tho' late his Throne.</p>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The humble Addreſs of the Grand Inqueſt for the County of</hi> Stafford, <hi>at the Aſſizes holden at the Town of</hi> Stafford, <hi>the 3d day of</hi> April, <hi>in the Fourth year of your Majeſties Reign,</hi> Anno Dom. 1688.</p>
+               </argument>
+               <opener>
+                  <salute>May it pleaſe your Majeſty,</salute>
+               </opener>
+               <p>WE hope the lateneſs of this Addreſs will not be attributed to want of Loyalty in us, ſince it comes with the firſt opportunity the Body of the County could be pre<g ref="char:EOLhyphen"/>vailed on, having hitherto been detained from paying its Duty, by an over-ruling Par<g ref="char:EOLhyphen"/>ty among us; we therefore, tho' late, yet with united Affections, come to offer the Tri<g ref="char:EOLhyphen"/>bute of our humble Acknowledgments to your Sacred Majeſty, for your Gracious <hi>Decla<g ref="char:EOLhyphen"/>ration,</hi> Indulgent Diſtribution of your Diſpenſing Power, and, with Hearts full of Joy, Congratulate the <hi>FRUITFULNESS</hi> of your Royal Conſort; which, as 'tis the hopes and expectations of all Loyal Souls, ſo may it fruſtrate the great Ends of the Factious, by the happy Production of a <hi>PRINCE</hi> of <hi>WALES.</hi> And whenever your Majeſty ſhall in your Princely Wiſdom think fit to call a Parliament, it ſhall be our ſtudy and care to promore
+<pb n="3" facs="tcp:44081:2"/> the Election of ſuch Members as will, by their concurrence in Aboliſhing the <hi>PenalLaws</hi> and <hi>Teſts,</hi> perſect the great Work of Peace, ſo Graciouſly and Auſpiciouſly undertaken by your Majeſty. And that your Reign may be long and happy over us, are the Deſires and Prayers of,</p>
+               <closer>
+                  <signed>Your most Loyal and Dutiful Subjects.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The humble Addreſs of the Mayor, Aldermen, Bailiffs, and Citizens, of the City of</hi> Carliſle.</p>
+               </argument>
+               <opener>
+                  <salute>Dread Sovereign!</salute>
+               </opener>
+               <p>BEing now at liberty, by the late Regulation made here, to Addreſs our ſelves unto your Majeſty, we beg leave to return our late but unfeigned Thanks, for your Ma<g ref="char:EOLhyphen"/>jeſties moſt Gracious <hi>Declaration</hi> of Indulgence, which we will endeavour to maintain and ſupport againſt all oppoſers: We likewiſe Thank your Majeſty for your Royal Ar<g ref="char:EOLhyphen"/>my, which really is both the Honour and Safety of the Nation, let the <hi>Teckelites</hi> think and ſay what they will. And when your Majeſty in your great Wiſdom ſhall think fit to call a Parliament, we will chuſe ſuch Members as ſhall certainly concur with your Majeſty, in repealing and taking off the <hi>Penal Laws</hi> and <hi>Teſts;</hi> and not hazard the E<g ref="char:EOLhyphen"/>lection of any Perſon, who hath any ways declared in favour of thoſe <hi>Conibal</hi> Laws. Surely they do not conſider what a Sovereign Prince by his Royal Power may do, that oppoſe your Majeſty in ſo Gracious and Glorious a Work! A Work which Heaven Smiles upon, and will reward with no leſs Bleſſing, we hope, than a <hi>PRINCE</hi> of <hi>WALES,</hi> that there may never want of your Royal Iſſue to ſway the Scepter, ſo long as the Sun and Moon endure; that your Majeſties Reign may be long and proſperous, and Bleſſed with Victories over all your Enemies, are the daily Prayers of,</p>
+               <closer>
+                  <salute>Great Sir,</salute>
+                  <signed>Your Majeſties moſt Obedient and Dutiful Subjects.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <opener>
+                  <salute>May it pleaſe your Majeſty,</salute>
+               </opener>
+               <p>WE your moſt Faithful and truly Loyal Subjects, the Mayor, Recorder, Aldermen, Com<g ref="char:EOLhyphen"/>mon Council, and Burgeſſes, of the Antient Corporation of <hi>Cambridge,</hi> do humbly caſt at the Feet of your Sacred Majeſty, our unfeigned Thanks for your moſt Gracious <hi>Declaration</hi> of <hi>Indulgence;</hi> which your Majeſty hath been pleaſed with much Condeſcen<g ref="char:EOLhyphen"/>tion to repeat, giving it a double ſtrength by your Royal Word; ſo that none that are truly Loyal can doubt of the performance of your Majeſties moſt gracious Promiſe, or refuſe to make their thankful Addreſſes for it. When therefore your Royal Wiſdom ſhall think fit to call a Parliament, we your Majeſties moſt Loyal Subjects, intirely en<g ref="char:EOLhyphen"/>gage our ſelves, and the utmoſt of our Endeavours, for the Election of ſuch Members as will heartily concur with that Divine Principle of your Majeſty; <hi>That Men's Conſci<g ref="char:EOLhyphen"/>ences ought not to be forced in matters of Religion, nor they diſtinguiſhed, in the Service of their Country, by other Teſts then that of Loyalty.</hi> Wherefore the many Bleſſings we enjoy un<g ref="char:EOLhyphen"/>der your moſt Sacred Majeſty, engage us in daily Prayer to Almighty God, that as your Royal Virtues exceed all Example, ſo your Reign, above compariſon, may be the long<g ref="char:EOLhyphen"/>eſt; nor may it end till a <hi>PRINCE</hi> of <hi>WALES,</hi> born of your Royal Conſort our moſt Gracious Queen, hath learned, by a long experience, the moſt Heroick Greatneſs of your Royal Mind.</p>
+               <closer>
+                  <signed>In Teſtimony whereof, we have unanimouſly cauſed our Common Seal to be affix<g ref="char:EOLhyphen"/>ed bereunto,</signed>
+                  <date>
+                     <hi>this 28th day of</hi> May, <hi>in the Fourth Year of your Majeſties Reign,</hi> Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Dom. 1688.</date>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The humble Addreſs of the Mayor, Recorder, Aldermen, and Common Council-Men, of your Ma<g ref="char:EOLhyphen"/>jeſties Town and Pariſh of</hi> Maidſtone, <hi>in the County of</hi> Kent.</p>
+               </argument>
+               <opener>
+                  <salute>Dread Sovereign,</salute>
+               </opener>
+               <p>AMongſt the many Favours under your Majeſties Pious, Prudent, and Serene Go<g ref="char:EOLhyphen"/>vernment over us, nothing more confirmeth our Hopes of laſting Happineſs, than the ſuſpending the Execution of thoſe Laws under which many of your Loyal Subjects have moſt grievouſly ſuffered; having alſo for our future Encouragement, your Ma<g ref="char:EOLhyphen"/>jeſties gracious <hi>Declaration</hi> reiterated, that your Princely Reſolutions are, that during your Majeſties Reign over us (which God grant may be long) no one of your Ma<g ref="char:EOLhyphen"/>jeſties Subjects ſhall be puniſhed, or diſturbed, for matters of meer Religion, nor their Properties invaded; and that your Majeſty will call a Parliament, where you have pro<g ref="char:EOLhyphen"/>miſed your Royal Aſſent to confirm it by Law unalterable.</p>
+               <pb n="4" facs="tcp:44081:3"/>
+               <p>For theſe undeſerved Favours, Great Sir, (after our humble and hearty Acknowledg<g ref="char:EOLhyphen"/>ments, with thankfulneſs to the Governour of Heaven and Earth, who hath brought you to your Throne, and perſwaded you ſo to Rule as to allow <hi>Liberty of Conſcience)</hi> We unfeignedly in all ſubmiſſion, as becometh good Subjects by Inclination as well as Duty, Preſent our moſt humble Thanks, reſolving to uſe our beſt Endeavours to make an acceptable return of a continued Loyalty, Thankfulneſs and Compliance to your moſt Gracious Majeſty in all your moſt Pious and Chriſtian declared Purpoſes, Particularly in Electing of Members of Parliament for this Corporation, whenever your Majeſty ſhall think fit to call a Parliament. And always ſhall be Petitioners to the Great King of Kings, that he will bleſs your Majeſty with a long and happy Reign over us, and with a ſucceeding Iſſue to ſit on the Throne of their Anceſtors whilſt the World endureth.</p>
+               <closer>
+                  <signed>In Teſtimony whereof we have affixed our Common Seal,</signed>
+                  <date>the 25th Day of <hi>May,</hi> in the 4th Year of your Majeſties Reign.</date>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING'S Moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Addreſs of your Majeſties Loyal and Dutiful Subjects the Grand Jury of your City and County of</hi> Exeter, <hi>held at the Guild Hall of the ſaid City, 23d of</hi> April, <hi>in the 4th Year of His Majeſties Reign, being the Anniverſary Day ſolemnized for your Majeſties Coro<g ref="char:EOLhyphen"/>nation.</hi>
+                  </p>
+               </argument>
+               <opener>
+                  <salute>Moſt Dread Soveraign,</salute>
+               </opener>
+               <p>SInce it hath pleaſed the King of Kings to bring your Majeſty to the Crown, and ſeat you on the Throne of your Illuſtrious Anceſtors, on this Day, we thought it our Duty, not only to thank the great God of Heaven for this Univerſal Bleſſing, which we did perform with Hearts unfeigned, full of Joy, and throughly ſenſible of that great Happineſs which it hath Pleaſed the over-ruling Providence to bleſs us with, under your Majeſties moſt Gracious and Merciful Government. But as we are bound to thank God for this great Bleſſing, ſo we judge our ſelves likewiſe engaged, by all the Obligations imaginable, to return our thanks to your Sacred Majeſty, God's true Vicegerent, whoſe Actions have ſurpaſſed any thing that Hiſtory could yet afford us, and whoſe Gracious and Unparallel'd Declaration for <hi>Liberty of Conſcience,</hi> hath come up to that agreeableneſs of Divinity it ſelf, who hath ſaid of Kings, <hi>I have made ye Gods;</hi> that you, Great Sir, have exceeded all Princes in that high and tranſcendent Character; we crave leave, moſt Gracious Soveraign, to render unto your Majeſty our moſt unfeigned Thanks for thoſe freſh Obligations and Privileges lately granted to this your Ancient and Loyal City in our new Charter, humbly aſſuring your Majeſty, that when ever you ſhall pleaſe to call a Parliament, we ſhall give our Aſſiſtance in chooſing ſuch Members as we doubt not will readily concur to perpetuate your great and good Work, which your Majeſty to your Eternal Honour and Glory have ſo happily begun; may the great God of Heaven make your Majeſties Reign long and proſperous over us, and grant your Majeſty, and your Royal Conſort, a numerous and laſting Iſſue, that as this Generation hath great cauſe to bleſs God for you, ſo future Generations may riſe up and call you and your Royal Progeny for ever Bleſſed: So pray heartily your Majeſties moſt Loyal and Dutiful Sub<g ref="char:EOLhyphen"/>jects.</p>
+            </div>
+         </div>
+         <div type="statements_of_congratulation_following_birth">
+            <head>
+               <hi>P. P. of. W. was Born the 10th of</hi> June, 1688.</head>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Addreſs of the Bailif, Recorder, Juſtices of the Peace, and Capital Burgeſſes, with other the Burgeſſes, Freemen and Inhabitants of the Borrough of</hi> Leominſter <hi>in the County of</hi> Hereford.</p>
+               </argument>
+               <opener>
+                  <salute>Dread Sir,</salute>
+               </opener>
+               <p>BY the plainneſs of our Words your Majeſty may read the Integrity of our Hearts, to a Prince whoſe only Aim and Deſires are to revive the <hi>Engliſh</hi> Glory, both at home and abroad; a Prince as Zealous of the true Intereſt and Welfare of all his Subjects as ever Reigned; a Prince who imploys all his Cares, Actions and Treaſures for the attain<g ref="char:EOLhyphen"/>ment of thoſe Ends, and the perpetuating theſe Bleſſings to us and our Poſterity, by Eſtabliſhing unto every one of us our Natural Birthright, Liberty and Property, both in Spirituals and Temporals, which, moſt Sacred Majeſty (out of the abundance of your Royal Bounty) hath been pleaſed ſo often to reiterate unto us, upon all occaſions, eſpe<g ref="char:EOLhyphen"/>cially in your Majeſtyes late repeated Declaration of Indulgence, that ſhould we admit of the leaſt Doubt or Scruple of the Sincerity of your Majeſties Intentions, we muſt de<g ref="char:EOLhyphen"/>prive
+<pb n="5" facs="tcp:44081:3"/> our ſelves as Rationally, and become more Stupid than Brutes, or which is worſe, more malicious than the Common Enemy of Mankind, nay, ſhould we not moſt willingly concur with your Majeſties moſt Pious Intentions herein, and contribute to the ut<g ref="char:EOLhyphen"/>moſt of our Powers in promoting them, we ſhould not deſerve the Earth we tread on, the Air we breath in, nor any other common Benefit we naturally enjoy, wherefore, moſt Gracious Sovereign, in the deepeſt ſenſe of our moſt profound Duty, we lay our Selves, our Lives and Fortunes at your Majeſties Feet, acknowledging all theſe Tranſcendent Fa<g ref="char:EOLhyphen"/>vours we enjoy under your Majeſties Government, promiſing hereby that we will readily Sacrifice all that is dear to us in the promoting your Majeſty's moſt Juſt, Gracious, Mer<g ref="char:EOLhyphen"/>ciful and Godly Declaration, by Aboliſhing the <hi>Teſt</hi> and other <hi>Penal Laws,</hi> which have ſo long Tyrannized over, and Enſlaved the Perſons and Conſciences of your Majeſties Loyal Subjects, in Electing of ſuch Members, for this your Majeſties Loyal Burrough, (when your Majeſty in your Princely Wiſdom ſhall think fit to call a Parliament) as will heartily concur with us therein, as well as in our Prayers, which we all unani<g ref="char:EOLhyphen"/>mouſly offer to the great God of Heaven, for the prolongation of your Majeſties happy Reign over us until you ſee a <hi>PRINCE of WALES</hi> (whoſe <hi>Orient Beams</hi> we daily ex<g ref="char:EOLhyphen"/>pect) in his full Glory, ready to Support the Crowns and Sway the Scepters of your Ma<g ref="char:EOLhyphen"/>jeſties Kingdoms, the Government whereof we humbly pray may continue in your Roy<g ref="char:EOLhyphen"/>al Progeny, until the Conſummation of all Ages.</p>
+               <closer>
+                  <signed>In Confirmation whereof we have hereunto put our Common Seal, and Subſcribed our Names,</signed>
+                  <date>this 16th Day of <hi>May,</hi> in the 4th Year of your Majeſties Reign, <hi>Anno Dom.</hi> 1688.</date>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Addreſs of your Majeſties Corporation of your City of</hi> Exeter.</p>
+               </argument>
+               <p>VVE your Majeſties moſt Dutiful and Loyal Subjects of your City of <hi>Exeter,</hi> in our Common Council aſſembled, do think our ſelves highly obliged to render Praiſe and Thankſgiving to the God of Heaven and Earth, the great Governour of the World, for the Birth of a Royal Prince, a Bleſſing ineſtimable, and one of the greateſt to your moſt Sacred Majeſty, and theſe Nations. <hi>Great Sir,</hi> we are ſure that all Men may now be ſatisfied, that Providence hath not only favoured, but rewarded your Royal Conduct, by which Liberty and Peace have been promoted, and maintained under the Shadow of your Scepter; whoſe Reign as it has been without a Parallel the moſt Gracious, ſo may it be long and proſperous. May your Majeſty live to a good old Age, to ſee the Royal Prince inherit all your Royal Vertues; and after your Majeſties long and proſperous Reign, may he be (as your Majeſty now is) a Bleſſing to theſe Nations. So pray your Majeſties moſt Dutiful and Loyal Subjects, who are and always ſhall be rea<g ref="char:EOLhyphen"/>dy to ſerve your Majeſty with Lives and Fortunes, to the laſt drop of our Blood.</p>
+               <closer>
+                  <date>In Teſtimony whereof we have, this 20th Day of <hi>June,</hi> in the 4th Year of your Majeſties Reign,</date>
+                  <signed>affixed our Common Seal.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Addreſs of the Mayor, Recorder, Aldermen, Common Council and Burgeſſes of your Majeſties Antient and Loyal Corporation of</hi> Berwick <hi>upon Tweed.</hi>
+                  </p>
+               </argument>
+               <opener>
+                  <salute>Moſt Dread Sovereign,</salute>
+               </opener>
+               <p>VVE your Majeſties moſt Loyal and Dutiful Subjects, though moſt remote in Place, yet as early and zealous in Proximity of Affection as any other, being ſtruck with a profound ſenſe of the due Acknowledgment we, as well as any other of your Majeſty's Subjects, owe to the great God of Heaven, and your moſt Sacred Majeſty as his Vicege<g ref="char:EOLhyphen"/>rent over us, for your late and never too often to be Commemorated moſt Gracious De<g ref="char:EOLhyphen"/>claration of free and general Indulgence, and the many Benefits and Bleſſings we daily receive thereby, do in moſt humble manner proſtrate our ſelves at your Majeſties Feet, with all poſſible Expreſſions of Gratitude. A Declaration which has brought a long with it, as it were, a new Charter to this our Antient Body, by which it hath incorpo<g ref="char:EOLhyphen"/>rated the very Heart and Affections of every Member of it, and united them all as the Heart of one Man, which is the beſt and ſureſt way of Regulation. A Declaration by which the moſt dark ſullen Clouds of Jealouſies and Fears in all unbyaſt Men, as to the free enjoyment of their Religion and Property are diſpelled from our Horizon, and in which Your unparallel'd Grace and Bounty, like that Univerſal Charity of the Sun ſhines equally upon all, the Unjuſt as well as the Juſt; and by which, as in the Miraculous Preſer<g ref="char:EOLhyphen"/>vation of Government in the Ark, even Creatures of moſt contrary Principles live to<g ref="char:EOLhyphen"/>gether in the quiet enjoyment of themſelves, under the Divine Influence of your Pro<g ref="char:EOLhyphen"/>tection.</p>
+               <pb n="6" facs="tcp:44081:4"/>
+               <p>Wherefore, <hi>Moſt Dread Sovereign,</hi> to give you the earneſt of a greater Harveſt, we hereby moſt heartily and ſincerely declare, that we will on all Occaſions defend your Majeſties moſt Sacred Perſon and Government, with the utmoſt of our Lives and Fortunes againſt all Oppoſers whatſoever: And that whenſoever it ſhall Pleaſe your Majeſty, in your Princely Wiſdom, to call a Parliament, we do hereby Teſtifie, and unanimouſly Agree, to chuſe for Burgeſſes ſuch as have your Majeſties gracious Recommendations, and ſhall concur with your Majeſties known pleaſur, in Annulling and Aboliſhing the <hi>Penal Laws</hi> and <hi>Teſt;</hi> that ſo your ſaid gracious Declaration may likewiſe be the true Senſe of all your Subjects, in an Act of Parliament.</p>
+               <p>And laſtly, Great Sir, let us, amongſt the firſt of your Subjects, upon the long wiſh'd for bleſſed Occaſion, of the thrice happy Delivery of your great and Royal Conſort, Con<g ref="char:EOLhyphen"/>gratulate your moſt Sacred Majeſties; not only wiſhing long Life, Health and Proſpe<g ref="char:EOLhyphen"/>rity to the Prince, a Bleſſing to theſe Nations, but ſhall alſo ever offer up our Prayers, that Almighty God will graciouſly beſtow a Male Poſterity, from the ſame Royal Line, to ſway the Scepter of theſe Kingdoms to the end of the World.</p>
+               <closer>
+                  <signed>In Teſtimony whereof, we have hereunto affixed the Seal of the ſaid Burrough,</signed>
+                  <date>
+                     <hi>this 16th day of</hi> June, <hi>in the Fourth Year of your Majeſties Reign,</hi> Anno Dom. 1688.</date>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The humble Addreſs of your Majeſties Loyal Subjects, the Mayor, Recorder, Aldermen, and all the Members of your Majeſties Antient Corporation of</hi> Cliſſton Dartmouth Hardneſs, <hi>in your County of</hi> Devon.</p>
+               </argument>
+               <opener>
+                  <salute>Dread Sovereign,</salute>
+               </opener>
+               <p>WE Preſume (full of tranſports of Joy) to throw our ſelves at your Royal Feet, heartily to Congratulate the happy Birth of the <hi>Prince,</hi> the greateſt Bleſſing that good Subjects could deſire, or Heaven could grant: And (as the beſt Obligation of Loyal Hearts) we ſincerely offer up our Prayers and wiſhes, that he may enjoy a long and happy Life; That your Sacred Majeſty, as well for his Sake, as for the invalue ble Good and Benefit of theſe Kingdoms, may live to the utmoſt Period of humane Life, to inſtruct him, by your gracious Example, in Piety, Prudence, Courage, and all the Royal Qualifications of a King, of which your Sacred Majeſty is the moſt Perfect Pattern. And when you ſhall change this Crown for an Immortal One, may he then, with theſe your Dominions, inherit alſo your Royal and Princely Vir<g ref="char:EOLhyphen"/>tues.</p>
+               <p>And, we preſume alſo at this time, to repeat our fixed and Loyal Reſolutions of ſerving your Sacred Majeſty on all occaſions, with our Lives and Fortunes. And we ſincerely offer you our hearty Thanks, for your late <hi>Declaration</hi> of <hi>Liberty of Conſcience:</hi> And whenever your Majeſty ſhall Summon a Parliament, we will chuſe ſuch Members as ſhall entirely, and without conditions, anſwer your Royal Expectation, in Repealing the <hi>Penal Laws</hi> and <hi>Teſt,</hi> not thinking it conſiſtent with the Duty of Subjects, to make Conditions with their King. With ſo Gracious a King ! But as your Majeſties Mercy and Indulgence is free and unlimitted, ſo ſhall our Obedience be. May your Sacred Majeſty live long and happily; may all your Enemies either heartily Repent and im<g ref="char:EOLhyphen"/>plore your Mercy, or ſuffer by your Juſtice; and may your Throne be Eſtabliſhed in Peace.</p>
+               <p>So heartily pray your Majeſties Loyal Subjects of this your Antient Burough.</p>
+               <closer>
+                  <signed>In Teſtimony whereof, we have affixed our Common Seal;</signed>
+                  <date>
+                     <hi>the 23d day of</hi> June, <hi>in the Fourth Year of your Majeſties Reign,</hi> Anno Dom. 1688.</date>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>
+                  <hi>The following was the firſt on the occaſion of the Birth of the P. P.</hi> Wales. To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The humble and hearty Addreſs of the Mayour, Aldermen, and Burgeſſes, of your Corporation of</hi> portſmouth.</p>
+               </argument>
+               <opener>
+                  <salute>Dread SIR,</salute>
+               </opener>
+               <p>HAving received by an Expreſs from his Grace the Duke of <hi>Berwick,</hi> the joyful News of her Majeſties being ſafely brought to Bed of a Prince, we thought it our Duties, in the firſt place, to pay our humble and hearty Thanks to the Almighty Hand that hath beſtowed this Bleſſing upon us, and hath Crown'd the Wiſhes of all your good Subjects, with that Act of Grace which they have ſo long and ſo earneſtly pray<g ref="char:EOLhyphen"/>ed for.</p>
+               <pb n="7" facs="tcp:44081:4"/>
+               <p>In the next place, we muſt not, we cannot omit, to Congratulate your Majeſty, and your Royal Conſort the Queen, in this great <hi>Jubilee</hi> of the Nation, in renewing and confirming to your Sacred Majeſty, by all the outward Marks of an inward and real Joy, our true Allegiance to your Majeſtly and your Royal Succeſſors.</p>
+               <p>Permit us then, Great Sir, to make this our early Offering of Fealty, to the Royal Infant in his Cradle; and to preſent him here with the firſt Fruits of our Loyalty, our un<g ref="char:EOLhyphen"/>ſeigned Wiſhes for his long Life and Happineſs, that he may inherit with the Crown the great Virtues of his Royal Parents; and when old Age, the Publick Cares, and Troubles of a Crown, hath made you weary of this (word) <hi>Printed in the</hi> Gazette, <hi>inſtead of</hi> [World;] and when that Hand which gave you to us, ſhall take you from hence, to place you in a better, this young Prince may ſucceed you in you Throne, and ſway your Scepter with the ſame Piety, Juſtice, and happy Temper, your Majeſty hath hitherto done (and we not doubt but will always do) And ſince by Divine Providence we have been once more Taught our Duties, and Heaven ſeems to be in<g ref="char:EOLhyphen"/>clined, by this Bleſſing beſtowed upon us, to forgive the Nation its paſt Faults, we ſhall henceforth take more care never to provoke that God, that gave us our King and this Prince, but ſhall <hi>EVER</hi> ſay and pray, <hi>Long live King</hi> JAMES <hi>the Second, our Gracious Queen</hi> MARY, <hi>and the PRINCE.</hi>
+               </p>
+               <closer>
+                  <signed>In Teſtimony of theſe our hearty Congratulations, and ſincere Wiſhes, we have cauſed the Seal of your Majeſties Corporation aboveſaid, hereunto to be affixed.</signed> Dated <date>
+                     <hi>this 12th day of</hi> June, Anno Dom. 1688. <hi>and in the Fourth Year of your Majeſties Reign.</hi>
+                  </date>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>July <hi>the 8th. the following preſented to the King.</hi> To the KING's moſt Excellent Majeſty.</head>
+               <p>WE the Grand Inqueſt for the Body of the County of <hi>Middleſs,</hi> having a deep Sence of your Majeſties Grace and Favour, in giving us and all your Subjects Security and peace, by your Majeſties moſt Gracious Declaration for <hi>Liberty of Conſcience,</hi> lately repeated and confirmed to us; do, in all Humility, return our due and unfeigned Thanks to your Majeſty for the ſame; and for your Royal and pious Endeavours and Reſolution, to perpetuate the preſent Tranquility to ſucceeding Generations, for their exceeding Benefit, and your Majeſties everlaſting Glory.</p>
+               <p>And we reſolve, as much as in us lies, to contribute to ſo good and neceſſary Work, and join our moſt humble and hearty Endeavours, that all <hi>Penal Laws,</hi> in matters of Religion (ſave for the contempt and neglect thereof) and the unequal <hi>Teſts,</hi> may be A<g ref="char:EOLhyphen"/>brogated; That we and our Fellow-Subjects having no partition Wall between us, may unite in Love, Peace and Happineſs, under your Majeſties Gracious and Powerful Pro<g ref="char:EOLhyphen"/>tection. We do moſt ſolemnly and heartily Congratulate your Majeſties great Hap<g ref="char:EOLhyphen"/>pineſs and Satisfaction, in the Birth of our high hopeful PRINCE, and account it no leſs Happineſs to theſe Nations.</p>
+               <p>And it ſhall be (as our Duty) our conſtant, zealous Care, to pray to Almighty God for the continuance of Life, Health, and Happineſs, to his <hi>ROYAL HIGHNESS,</hi> and for a Bleſſing on both your Majeſties in a numerous Iſſue, and with long Life, and conſtant Happineſs and Succeſs, in all your Majeſties great and pious Undertakings; and ſubſcribe our ſelves</p>
+               <closer>
+                  <signed>Your Majeſties moſt Dutiful and Loyal Subjects and Servants.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The humble Addreſs of the Mayor, Aldermen, and Common-Council, of your Majeſties Loyal City of</hi> Durham, <hi>July 2d</hi> 1688.</p>
+               </argument>
+               <opener>
+                  <salute>Moſt Gracious Sovereign,</salute>
+               </opener>
+               <p>WE your Majeſties moſt Dutiful and Obedient Subjects of this Corporation, ha<g ref="char:EOLhyphen"/>ving, in the firſt place, moſt humbly offered up our publick Praiſes and Thanſ<g ref="char:EOLhyphen"/>givings to Almighty God, for the happy Birth of the young Prince; the greater Bleſ<g ref="char:EOLhyphen"/>ſing that could Poſſibly deſcend upon theſe your Kingdoms; do now hold our ſelves o<g ref="char:EOLhyphen"/>bliged alſo to preſent our moſt humble Congratulations to your Sacred Majeſty and your Royal Conſort the Queen, upon this joyful occaſion; and ſhall always pray, that your Majeſties may be bleſſed with more Children, and more Sons, that there never may be wanting one of your Royal Stock and Race, to wear the Imperial Crown, and to ſway the Scepter of theſe your Dominions.</p>
+            </div>
+            <div type="statement_of_congratulation">
+               <pb n="8" facs="tcp:44081:5"/>
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The humble Addreſs of the Lord Lieutenant, Deputy-Lieutenants, and Juſtices of the Peace, of the County of</hi> Kent, <hi>at the General Quarter-Seſſions holden at</hi> Cantorbury. <hi>the 10th day of</hi> July, 1688. <hi>for the Eaſtern Diviſion of the ſaid County.</hi>
+                  </p>
+               </argument>
+               <opener>
+                  <salute>Dead SIR,</salute>
+               </opener>
+               <p>WE your Majeſties Loyal and Dutiful Subjects, having rendred to Almighty God our moſt ſincere and humble Thankſgivings, for the ineffable Bleſſings beſtow<g ref="char:EOLhyphen"/>ed upon your Royal Majeſty, your Kingdoms and Dominions, in the happy Birth of a Prince. We do now (Sacred Sir) eſteem it our Duty and higheſt Obligation, pro<g ref="char:EOLhyphen"/>ſtrate at your Majeſties Feet, gratefully to acknowledge, that your Majeſties admirable Goodneſs, Piety, and Juſtice, have obtained from our moſt gracious God this ſo inex<g ref="char:EOLhyphen"/>preſſible a Bleſſing: The conſideration whereof, as it ought, ſo are we confidently aſ<g ref="char:EOLhyphen"/>ſured, it will open the Eyes of all Men (who are not wholly poſſeſſed with the Spirit of Contradiction) to behold, with grateful Hearts, your Majeſties moſt Fatherly and Pious Care for the welfare of your People: So that (when your Majeſty ſhall think fit to call a Parliament) we ſhall all, to the utmoſt of our Endeavours, make choice of ſuch Per<g ref="char:EOLhyphen"/>ſons to ſerve therein, as may unite your Subjects in Charity and Chriſtian Correſpon<g ref="char:EOLhyphen"/>dence, by their unanimous Conſent to the Repeal of thoſe diſuniting <hi>Penal Laws</hi> and <hi>Teſts,</hi> whereby Diviſions and Animoſities have ſo long harboured amongſt us.</p>
+               <p>Great Sir, That Almighty God will grant your Sacred Majeſty, your Royal Conſort the Queen, and his Royal Highneſs the Prince of <hi>Wales,</hi> long Life, Happineſs, and Po<g ref="char:EOLhyphen"/>ſterity, is the moſt zealous Prayer of,</p>
+               <closer>
+                  <salute>Moſt Gracious SIR,</salute>
+                  <signed>Your Majeſties moſt Loyal and Dutiful Subjects.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The humble Addreſs of the Clothiers of the Counties of</hi> Devon and Sommerſet. <hi>May it pleaſe Your Majeſty,</hi>
+                  </p>
+               </argument>
+               <p>VVE cannot but in a due senſe of your Majeſties great Goodneſs to us, render our moſt humble and hearty Thanks, for your gracious Hearing our mi<g ref="char:EOLhyphen"/>ſerable Complaints of the Exportation of Wool, and of your Majeſties ſpeedy, as well as effectual Redreſs thereof, in the iſſuing out your Commiſſion for that purpoſe; by which your Majeſty hath preſerved and put a new Life to Trade, which, next to the great and glorious Deſign of <hi>Liberty of Conſcience,</hi> is undoubtedly the beſt ſupport of the Wealth and grandure of a Nation; and therefore we can now return with Joy to our reſpective Habitations.</p>
+               <p>And as it has pleaſed God, to our great Joy, to Bleſs your Majeſty with a Royal <hi>Prince,</hi> to ſway the Scepter of theſe Kingdoms after your Majeſty, ſo we heartily pray God, there may never want of your Princely Poſterity to ſit on the Throne of your Majeſty, and that he may, in due time, inherit your Princely Virtues, as well as the juſt Dominion over all your Kingdoms.</p>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The humble Addreſs of the Grand Inqueſt at the General Quarter-Seſſions of the Peace, held for the County</hi> Palatine <hi>of</hi> Durham, <hi>this 11th day of</hi> July, 1688.</p>
+               </argument>
+               <opener>
+                  <salute>Moſt Gracious Sovereign.</salute>
+               </opener>
+               <p>VVE your Majeſties Loyal and Obedient Subjects, upon the firſt opportunity of repreſenting the Body of this Country, hold our ſelves obliged, next to our publick Thankſgivings to Almighty God, to Congratulate your Majeſty and your Royal Conſort the Queen, in the moſt joyful News of the Birth of a young Prince, now Prince of <hi>Wales,</hi> May his Royal Highneſs long Live, and your Majeſties be bleſſed with a nu<g ref="char:EOLhyphen"/>merous Iſſue, and your Throne Eſtabliſhed in all ſucceeding Ages; which is the hear<g ref="char:EOLhyphen"/>ty and unanimous Deſire of <hi>Your Majeſties moſt Dutiful Subjects,</hi> &amp;c.</p>
+               <closer>
+                  <signed>We the Lord Lieutenant, High Sheriff, and Juſtices of the Peace of this County, now preſent at the ſaid Quarter-Seſſions of the Peace, do concur with the Grand Inqueſt in this Addreſs.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The humble and hearty Congratulation of the High Sheriff, Juſtices of the Peace, and Grand Jury of the County of</hi> Worceſter, <hi>holden at the General-Seſſions of the Peace, the 10th day of</hi> July. Anno Dom. 1688.</p>
+               </argument>
+               <p>PErmit, Dread Sir! amongſt the loud Peals of Joy, that ring in every corner of this Kingdom, to join our Huzza with the reſt of your Majeſties Subjects, for a Bleſ<g ref="char:EOLhyphen"/>ſing,
+<pb n="9" facs="tcp:44081:6"/> beſtowed on us, ſo long, ſo earneſtly deſired. Happy we that live to ſee a Prince of <hi>Wales</hi> from your Loins, and happy our Poſterity, that live to be Governed by a Prince of ſuch a Father. May your Majeſty live long, to ſee thoſe great Endowments Hea<g ref="char:EOLhyphen"/>ven has enriched him with, and he live to outdo whatever Hiſtory ſpeaks Great of his Anceſtor's Actions; and, if poſſible, even thoſe of <hi>James the Second;</hi> whilſt we contri<g ref="char:EOLhyphen"/>bute, by a ſtedfaſt Loyalty, to farther all your juſt Deſigns, and not frowardly oppoſe you in any thing, ſince Heaven ſeems to grant what you ask! And that your deſire may never receive denial, ſhall be the conſtant Prayer and Wiſhes of, &amp;c.</p>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>The humble and unanimous Congratulation of his Majesties Justices of the Peace for the County of <hi>Sommerſet,</hi> at their General <hi>Quarter-Seſſions</hi> held at <hi>Bridgwater,</hi> the 10th day of <hi>July,</hi> in the Fourth Year of his Majeſties Reign. <hi>Anno Dom. 1687.</hi> Subſcribed likewiſe by ſeveral other Gentlemen then and there preſent.</head>
+               <opener>
+                  <salute>Moſt Gracious Soverign.</salute>
+               </opener>
+               <p>ALtho' we have, with all ſincerity, made our reſpective Acknowledgment to Al<g ref="char:EOLhyphen"/>mighty God, for the great Bleſſing he hath vouchſafed this Nation, by making your Majeſty the Parent of a moſt Hopeful and Illuſtrious Prince, and have given us great and ample Demonſtrations of our Joy for the ſame, in our ſeveral ſtations, as we were capable; yet nevertheleſs, we do not think our ſelves acquitted of our Duty, without an humble Congratulation, with your Majeſty and your Royal Conſort, up<g ref="char:EOLhyphen"/>on this happy Occaſion; and aſſuring your Majeſty, that whenever the over-ruling power (by which Kings Reign) ſhall reſume that Crown you now ſo juſtly wear, we will bear all Faith and true Allegiance to this Illuſtrious Prince; but that the commence<g ref="char:EOLhyphen"/>ment thereof may be late, are, and ſhall always be, the Prayers of</p>
+               <closer>
+                  <signed>Your Majeſties most Faithful and most Obedient Subjects.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's Moſt Excellent Majeſty.</head>
+               <opener>
+                  <salute>May it pleaſe your Majesty.</salute>
+               </opener>
+               <p>THE Mayor, Aldermen, and Commons, of your Majeſties Antient and Loyal City of <hi>York,</hi> were tranſported with Joy, at the Birth of the young Prince: And after they had made what Demonſtrations they could at Home of their Rejoycing, thought it their Duty to ſend, and have ſent, ſome of the principal Members of their Body, to Congratulate your Majeſty for ſo great and extraordinary a Bleſſing, both to your Majeſty and your Subjects, The great God who, hath at ſundry times miraculouſly preſerved your Majeſty both at Sea and Land, hath at this time enlarged his Bleſſings to your Majeſty and your People, by giving us a Royal Prince, who, we pray, may live long to Inherit the Virtues and Crown of his Anceſtors, and that there may never want one of your Royal Family to ſway the Scepter of theſe Kingdoms; for the ſup<g ref="char:EOLhyphen"/>port and maintenance whereof, we are, and ſhall always be ready, to Sacrifice our Lives and Fortunes. And that the God of Heaven would be graciouſly pleaſed to ſhower down his Bleſſings upon your Majeſty, your Royal Conſort, the young Prince, and the whole Royal Family, is the hearty Prayer of us</p>
+               <closer>
+                  <signed>Your Majesties most Dutiful, Obedient, and Loyal Subjects.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the King's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The hearty Congratulation of the Mayor, Aldermen, and Common Council, of your Majesties City of</hi> Bath.</p>
+               </argument>
+               <opener>
+                  <salute>Dread Sovereign,</salute>
+               </opener>
+               <p>NO ſooner did the happy News of a Prince being born, reach our Ears, but we thought it our Duty to Congratulate your Majeſty for ſo great a Bleſſing; and knowing it is unjuſt to be ſilent on this occaſion, we do therefore offer up our Thanks to the great <hi>Jehovah,</hi> for the ſending of an Heir to your Majeſty and your Kingdoms from your Royal Loins; which is that alone that can confirm our preſent Happineſs under your Government, and give us a comfortable proſpect of the continuance of it; and we, as far as in us lies, ſhall, in our Proper ſtation, contribute to the Aſſiſting your Majeſty in your pious Intentions, in ſetling theſe your Kingdoms in Peace and Tranqui<g ref="char:EOLhyphen"/>lity, whenſoever your moſt Sacred Majeſty ſhall in your Princely Wiſdom think fit to require it of us. And we heartily implore the Almighty, to ſend your Majeſty and us more ſuch Royal Pledges, by your gracious Conſort, and bleſs Your Majeſty with long Life, to ſee our young Prince, by your Majeſties tender Care, fitted to Govern all his people. Theſe are the Prayers of us your Majeſties moſt Dutiful and Obedient Subjects.</p>
+               <closer>
+                  <signed>In Teſtimony whereof we have hereunto affixed our Common Seal,</signed>
+                  <date>
+                     <hi>this 25th Day of</hi> June, <hi>in the 4th Year of His Majeſties Reign.</hi>
+                  </date>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <pb n="10" facs="tcp:44081:7"/>
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The. Humble Addreſs of the Mayor, Aldermen, Bailiffs and Capital Citizens of the City of</hi> Carliſle,</p>
+               </argument>
+               <opener>
+                  <salute>
+                     <hi>Great</hi> SIR!</salute>
+               </opener>
+               <p>WE Your Majeſties moſt Loyal Subjects, cannot but expreſs our exceeding Joy (that if we may-ſay it) tranſports us above Mortals, and places us on Earth in a moſt Heavenly Condition, living under Your Majeſties moſt Sacred Protection, a Prince Born for high Exploits, and the Peace of theſe Three flouriſhing, though lately diſtracted Kingdoms, as the whole Series of nine Years Revolution can teſtifie. Your Majeſty in a moſt high meaſure hath been the care of Almighty God, whoſe Projects never fail, but ever in the end brings all humane policy that is contrary to Confuſion; Witneſs your Miraculous Preſervations at Sea amidſt a number of unparalleled Dangers: Witneſs the eaſy Conqueſt You gained, or rather the juſt Puniſhment You inflicted upon Rebels, who durſt oppoſe your Sacred Authority: But to cloſe all, witneſs this Heavenly Bleſſing to compleat the Miracle. A Prince Born to the Worlds Aſtoniſhment, that gives us hopes of a nume<g ref="char:EOLhyphen"/>rous Iſſue, an Heir (we queſtion it not) that will Inherit as well as Crown his Father's Heroick Virtnes, (Qualities above the greatneſs of <hi>Conſtantine)</hi> and in Concluſion if need be, finiſh what Your Majeſty, to make us happy, has ſo fortunately begun, for whoſe Safety we faithfully promiſe to ſpend our Lives and Fortunes, and will dally bleſs God, that has given You a Fruitful Conſort,</p>
+               <closer>
+                  <signed>In Teſtimony whereof, we have hereunto affixed our Common-Seal</signed>
+                  <date>the 2d Day of <hi>July,</hi> in the 4th Year of your Majeſties Reign, <hi>Anno Domini,</hi> 1688.</date>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>
+                  <hi>To the</hi> KING's <hi>moſt Excellent Majeſty.</hi>
+               </head>
+               <argument>
+                  <p>
+                     <hi>The humble and unanimous Addreſs of your Majeſties Juſtices of the Peace, at the General</hi> Quarter-Seſſions <hi>of the Peace holden at</hi> Leads, <hi>for the</hi> Weſt-Riding <hi>of the County of</hi> York, <hi>this 12th day of</hi> July, <hi>in the Fourth Year of your Majeſties Reign.</hi>
+                  </p>
+               </argument>
+               <p>MAY it pleaſe your Sacred to ſuffer us your moſt Loyal Subjects, moved by the moſt ardent Affection, profoundeſt Duty, and trueſt Intereſt, to Congra<g ref="char:EOLhyphen"/>tulate You, our and the three Kingdoms Happineſs, in the Birth of a Prince; humbly praying the God of Heaven, for Life, Health, and Proſperity to your Majeſty, his Royal Highneſs, and your Royal Conſort, with the addition of whatever may contribute to your and their Happineſs here: And after a long Reign over us, may your Majeſty inherit an Erernal Crown in a better Kingdom: And may there never want one of your Royal Line to ſway the Scepter of theſe Kingdoms, till Time ſhall be no more, is the moſt fervent, ſincere, and unfeigned Prayer of</p>
+               <closer>
+                  <signed>Your Majeſties Obedient Loyal Subjects</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The humble Addreſs of the Grand Jury for the County of</hi> Hertford, <hi>at the Aſſizes held at</hi> Hert<g ref="char:EOLhyphen"/>ford <hi>the 23 day of</hi> July, <hi>in the fourth Year of your Majeſties Reign,</hi>
+                  </p>
+               </argument>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>HAD not a Party averſe to comply with your Majeſties gracious Inclinations, been too prevalent in this County, an Addreſs would have been ſooner made to your moſt Sacred Majeſty, for your moſt gracious <hi>Declaration</hi> of <hi>Indulgence;</hi> and tho we are too to late, yet we hope we ſhall not be unwelcome, in making a due and juſt return of our moſt humble and hearty Thanks, and grateful Acknowledgments, for your Ma<g ref="char:EOLhyphen"/>jeſties gracious Intentions to your Subjects in general, in Abrogating of the <hi>Penal Laws</hi> and <hi>Test.</hi>
+               </p>
+               <p>We will not (like others) go about thanking your Majeſty for your particular Fa<g ref="char:EOLhyphen"/>vours, of promiſing to maintain the Eſtabliſhed Religion of the Church of <hi>England</hi> only, but do freely, willingly, and unanimouſly, give our beſt Thanks, general and without any reſtriction whatſoever.</p>
+               <p>We are neither for deſigning Evil, nor for carrying it on when it is begun; there<g ref="char:EOLhyphen"/>fore do promiſe our utmoſt Endeavours (when your Majeſty ſhall, in your great Wiſ<g ref="char:EOLhyphen"/>dom, think fit to call a Parliament) to chuſe, and promote the chuſing, of ſuch Repre<g ref="char:EOLhyphen"/>ſentatives as will, in all reſpects, comply with your Majeſties Deſires. We all hear<g ref="char:EOLhyphen"/>tily Thank your Majeſty, for your late Proclamation againſt Swearing.</p>
+               <p>And laſtly, we do (with all the Joy our Hearts can wiſh, or Tongues expreſs) Con<g ref="char:EOLhyphen"/>gratulate the Birth of the Prince of <hi>WALES,</hi> a Bleſſing ſent from Heaven for the per<g ref="char:EOLhyphen"/>petual Eſtabiſhment of <hi>Liberty of Conſcience.</hi> May all the Happineſs of Heaven and Earth attend your Majeſty, your Royal Conſort, and the young Prince; and may we ceaſe li<g ref="char:EOLhyphen"/>ving, when we ceaſe being</p>
+               <closer>
+                  <signed>Your Majeſty's moſt Dutiful and Loyal Subjects.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <pb n="11" facs="tcp:44081:7"/>
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Addreſs of Your Loyal and Dutiful Subjects the Mayor, Recorder, Aldermen and Common Council, of your Majeſties Corporation and Borough of</hi> King's Lynn, <hi>in the County of of</hi> Norfolk.</p>
+               </argument>
+               <opener>
+                  <salute>
+                     <hi>Great</hi> SIR!</salute>
+               </opener>
+               <p>WE Your Majeſties Dutiful Subjects crave leave of Your Majeſty, and Your Royal Conſort, that we may join with Your Majeſties, in offering our moſt humble and hearty Thanks to God Almighty, for ſending Your Majeſty a Son, and us a Prince; and further we beg of Your Majeſties to accept our Cordial Thanks, for Your Majeſtles late Favours to the Body of this Corporation; as alſo for Your Princely Condeſcention and Affection, by both Your Gracious Declarations, not only extending to the <hi>Church of England;</hi> but to all other Your Peaceable and Loyal Subjects, aſſuring us by Your Royal Word, that You will ſtand by us, whereby we are not only obliged, but reſolved, when Your Majeſty ſhall think fit to call a Parliament, we will endeavour to Elect ſuch Members as ſhall make Your Majeſty happy, and Your Subjects eaſie. And ſhall ever pray for Your Majeſties long Life and peaceable Reign over us.</p>
+               <closer>
+                  <signed>In witneſs whereof we have Fixed our Town Seal,</signed>
+                  <date>
+                     <hi>the 2d Day of</hi> July, <hi>in the 4th Year of Your Majeſties moſt Gracious Reign,</hi> Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Domini, 1688.</date>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Addreſs of ſeveral Members of the Corporation, and other Freemen and Inhabitants of your Antient City of</hi> Bath.</p>
+               </argument>
+               <opener>
+                  <salute>May it pleaſe your Majeſty,</salute>
+               </opener>
+               <p>NO ſooner did the happy News of the Prince's Birth reach our Ears, but we of this Place thought it our Duty, in a more eſpecial manner, to be early in the return of our Praiſes to the Almighty, for ſo great a Bleſſing upon us and your Three King<g ref="char:EOLhyphen"/>doms, and in Congratulating your Majeſty and your Royal Conſort, of being the joyful Parents of ſo good a Son; a Gift which the whole Nation ought to eſteem as the Reward of Heaven, upon that continued Series of Goodneſs and Indulgence, which your Majeſty hath ever ſince the beginning of your moſt Auſpicious Reign extended to your Subjects; particularly that of your Compaſſionate Declaration for <hi>Liberty of Conſcience,</hi> whereby as you are pleaſed to ſuſpend the execution of all Penal Laws in matters of Re<g ref="char:EOLhyphen"/>ligion, and the requiring of any Oaths or Teſts from any; ſo do we, upon our Allegi<g ref="char:EOLhyphen"/>ance to You our Sovereign, promiſe and engage, that whenſoever your Majeſty ſhall think fit to call a Parliament, ſuch of us as ſhall have a power of Electing, will chuſe none to ſerve therein, but who will give us full aſſurance, that they will endeavour the total A<g ref="char:EOLhyphen"/>brogation of them.</p>
+               <p>And that your Majeſty may have the ready concurrence of both your Houſes in theſe gracious Intentions, and enjoy the Comfort and Satisfaction of ſeeing the Fruits and Con<g ref="char:EOLhyphen"/>ſequences thereof, by a long and proſperous Reign in Peace and Plenty, (having ſur<g ref="char:EOLhyphen"/>vived the Murmurings and Diſcontents of a malevolent Party) the Prince your Son ar<g ref="char:EOLhyphen"/>rived to Maturity of Years and Underſtanding, and a numerous Off-ſpring from your Royal Loins, which may perpetuate your Name and Memory, and even baffle Mortality it ſelf, ſhall be the conſtant Prayer of,</p>
+               <closer>
+                  <salute>Dread Soveraign,</salute>
+                  <signed>your Majeſties ever Dutiful and Loyal Subjects.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING and QUEEN's moſt Excellent Majeſties.</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Congratulation of the Lord Lieutenant and Deputy Lieutenant, the High Sheriff, and the Grand Jury, with the reſt of the Juſtices of the Peace of this County of Eſſex, holden as the Aſſizes in</hi> Brentwood, <hi>this 27th Day of</hi> July, 1688.</p>
+               </argument>
+               <opener>
+                  <salute>Great Sir,</salute>
+               </opener>
+               <p>WE your Majeſties moſt Loyal and Obedient Subjects, having returned our moſt humble and hearty thanks to Almighty God for the Ineſtimable Bleſſing confer<g ref="char:EOLhyphen"/>red on your moſt Sacred Majeſty, your Kingdoms and Dominions, in the happy Birth of a Prince,</p>
+               <p>Now <hi>(Dread Sir)</hi> aſſure our ſelves that it is our higheſt Duty and Obligation to lay our ſelves at your Majeſties Feet, thankfully acknowledging, that your Majeſties Goodneſs, Piety and Juſtice, having obtained this ſo unſpeakable a Bleſſing from our moſt gracious God, will open the Hearts and Eyes of all Men, to behold with Loyal and Thankful Reſpects your Majeſties Pious and indulgent Care of the Welfare and Happineſs of all your People. And we are reſolved, that when your Majeſty ſhall, in your great Wiſdom, call a Parliament, we will unanimouſly Elect ſuch Men as ſhall anſwer your Majeſties Expectation in uniting your Subjects in Charity and Chriſtian Correſpon<g ref="char:EOLhyphen"/>dency.</p>
+               <p>
+                  <hi>Great Sir,</hi> That the Almighty will grant your Sacred Majeſty, your Conſort the Queen, and his Royal Highneſs the Prince, a long Life Proſperity and Happineſs, and
+<pb n="12" facs="tcp:44081:8"/> the moſt fervent Prayers,</p>
+               <closer>
+                  <salute>Dread Sir,</salute>
+                  <signed>of your Majeſties moſt Dutiful, Loyal and Obedient Subjects.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Addreſs of the High Sheriff, Juſtices of the Peace, and the Grand Jury of the County of</hi> Oxon, <hi>at the General Aſſizes held at Oxford, the 28th Day of</hi> July, 1688.</p>
+               </argument>
+               <opener>
+                  <salute>
+                     <hi>Dread</hi> SIR!</salute>
+               </opener>
+               <p>AS we are ſenſible the beſt Addreſſes that Subjects can make, are thereturns of Du<g ref="char:EOLhyphen"/>ty and Obedience to their Princes Commands, we ſhould not have preſumed up<g ref="char:EOLhyphen"/>on this Application, but that full Hearts, like full Banks, will overflow: The Bleſſing God Almighty hath been pleaſed to beſtow on your Majeſty and this Realm, by ſending a <hi>PRINCE</hi> of <hi>WALES,</hi> is a Happineſs too large to be contained within the narrow com<g ref="char:EOLhyphen"/>paſs of our Breaſts; wherefore we could not but join in our Particulars to the Univerſal Joy of the whole Kingdom. Rreceive therefore, <hi>Great Sir,</hi> the Congratulations flowing from Hearts full of Loyalty which your Majeſty ſhall allways, find when ever Your Commands ſhall call us to a performance; and hope there will be none, who hereafter will dare to ſrown on Your Royal Deſigns, ſince Heaven Smilis on all Your Actions, whither we will ſend ſreſh our dally Prayers for Your Majeſties and the Prince's long Life and Happineſs; and hope by conſtant Solliciting the Divine Goodneſs, to obtain a Second Bleſſing to this Nation, that the Queen may have a <hi>Duke of York;</hi> for which, let the Three Kingdoms join till Heaven hears our prayers, and all concur with us in ſaying, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Addreſs of your Majeſties Juſtices of the Peace in this the</hi> North Riding <hi>of the County of</hi> York, <hi>at the General Quarter Seſſions hold at</hi> North Allerton, <hi>by Adjournment, the 17th Day of</hi> July, 1688.</p>
+               </argument>
+               <opener>
+                  <salute>Moſt Dread Sovereign,</salute>
+               </opener>
+               <p>THough we are out done in Point of Time by ſome of our fellow Subjects, yet we may affirm none approach Your Throne with more joyful and grateful Hearts than We, for the great Bleſſing God Almighty hath beſtowed on your Sacred Majeſty, and the Kingdom, by the happy Birth of his Royal Highneſs the Prince. of <hi>Wales.</hi>
+               </p>
+               <p>We beg (Sacred Sir) leave to Congratulate with you for this bleſſing reveived and that We may pray and wiſh for his long Life and Health and for the enereaſe of your oy<g ref="char:EOLhyphen"/>al Family, that After-Ages may know, and enjoy an equaſity of that Peace and Plen<g ref="char:EOLhyphen"/>ty under the Government of your direct Line, in which we, into your wiſe and juſt Government (to the envy of our Neighboars) now flouriſh.</p>
+               <p>Having owned the vaſt Advantages we poſſoſs, by your not yet equalled Juſtice, per<g ref="char:EOLhyphen"/>mit Us, (Great Sir) being the beſt Return we are able to make, to all are you of our wil<g ref="char:EOLhyphen"/>ling Submiſſion, and ready concurrence, to all your deſign'd Points of Government, and particularly to that of taking away the <hi>Penal Laws</hi> and <hi>Teſts,</hi> the beſt Expedient (we are ſatisfied) to make this Nation great and happy.</p>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING.</head>
+               <opener>
+                  <salute>May it pleaſe your Sacred Majeſty,</salute>
+               </opener>
+               <p>IF the Yearly Duty we pay your Majeſty in a general Meeting of Your Royal Purroughs had not called Us together at this time, yet we had (after thanking Almighty God in our reſpective Bur<g ref="char:EOLhyphen"/>roughs for the Birth of the Young Prince) deſign'd to have met of purpoſe, for Acknow'edging the great. Obligation we owe Your Majeſty in leagthning out, even beyond Your own Life, the Happineſs and Quier which we juſtly expect, during the Prince's life: Nor do we doubt but that the Enemies of our Peace will, upon his Birth, find it neceſſary for them to lay aſide all hopes which they entertained of being able to trouble our tranquility; and that with him God will be ſtow upon Your Majeſty that devout Gratitude which prevails with his infinite Goodneſs: to bleſs You with the entire Submiſſion of Your Subjects, and Your Subjects with the happineſs of Your long and vigorous Life.</p>
+               <p>
+                  <hi>Great Sir,</hi> Intereſt as well as Duty, does tie your Royal Burroughs to a more immediate Depen<g ref="char:EOLhyphen"/>dance upon that Royal Authority, which gave them both their Being and Privileges; and experi<g ref="char:EOLhyphen"/>ence has now obliged us to believe, that you make our Intereſt your own. And therefore we do now again renew to your Majeſty, the ſincere offer of our Lives and Fortunes, being much enlivened by the new hopes which ſpring freſhly from this occaſion. And to Teſtifie our extraordinary Joy up<g ref="char:EOLhyphen"/>on it, we have ſent your Majeſty's Provoſt of <hi>Edinburgh</hi> (the chief of our Repreſentatives, and one very much eſteemed amongſt us for Loyalty) to teſtifie beyond what Letter can do, that there are none of your Majeſties Subjects more joyful. upon this occaſion, than, <hi>May it pleaſe your ſacred Majeſty, Your Majeſties moſt Humble, moſt Dutiful, and most Loyal Subjects and Servents,</hi> the Commiſſioners of the Royal Burrough of your Majeſties Antient Kingdom of <hi>Scotland.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>Signed by Warrant of the Ge<g ref="char:EOLhyphen"/>neral Convention of</hi> Burroughs, <hi>by our</hi> Praeſes and Clerk our particular Subſcriptions being Recorded in our Regiſters.</signed>
+                  <signed>
+                     <hi>Subſcribed thus:</hi> Magnus Prince, Praeſes, <hi>Ga. Rocheid,</hi> CI.</signed>
+                  <dateline>
+                     <hi>Edinburgh</hi> 
+                     <date>July 7. 1688.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <pb n="13" facs="tcp:44081:8"/>
+               <head>To the KING's moſt Excellent Majeſty,</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Addreſs of the Clergy of the County-Palatinate of</hi> Cheſter, <hi>who publiſhed the late gracious Declaration in their Churches, for Liberty of Conſcience.</hi>
+                  </p>
+               </argument>
+               <p>WE Your Majeſty's moſt Dutiful and Loyal Subjects, well weighing what we, as ſuch, ought to render to ſo Sacred and Gracious a King, reckoned we ow'd this, and higher Inſtances of our Obedience, in purſuance of which, and of Your Majeſty's Order in Council, we heartily read the Declaration for Liberty of Conſcience, not repining that all other our Fellow-Subjects ſhould enjoy with us a Portion of your Royal Favour. We are well aware that many have well deſerved; and as to the other Number, towards whom you go the Courteous and Nobleſt Way-of Conquering, we hope your Mercy may be ſucceſsful; or at leaſt your Power will pre<g ref="char:EOLhyphen"/>ſerve you ſafe. But if is Matter of the Declaration were not according to our Wiſhes, yet the eſtabliſhing of it is according to our Duty, ſince it is iſſued out from the expreſs Pierogative of your Supremacy over us; and we are required by what is Statute-Law, the Rubrick of our Liturgy, to publiſh what is enjoined by the King, or our Biſhop, (whoſe Care herein was remarkable) as much as what is preſcribed in the Rules of this Book. So that we cannot, but with Trouble of Mind, hear of the Proceedings of the Seven Biſhops; who tho' they tenderly promiſed the Diſſenters ſomething, yet refuſed to do their part about the Declaration, leſt they ſhould be Parties to it; which Reaſon we, with due Modeſty, (and relying upon a Higher Authority) eſteem inſufficient, ſee<g ref="char:EOLhyphen"/>iag the Parliament of 62. did not think the Reading the Common Prayer was approving of it, without Aſſent and Conſent publickly declared.</p>
+               <p>We therefore, in all Submiſſion, become earneſt, tho' too mean, Interceſſors to your moſt Gracious Majeſty, in behalf of the Church of <hi>England,</hi> That the Faults of thoſe, and others, may not be laid to our Charge, in whoſe Communion there are many, and we hope there will be more, who concur in promoting the Purpoſes of your mild Go<g ref="char:EOLhyphen"/>vernment. We farther beg leave to make our Congratulations for the Happy Birth of the Young Prince, in his Hereditary Succeſſive Kingdom. We in this Palatinate, are the firſt Lot of Inheritance to the Firſt-born of our Kings; and as we have a greater part in him, ſo we have a more plentiful Joy, that he is born to us; praying a long Life to him, and the inheriting of his Royal Father's Crowns and Vertues: We hereby bind our ſelves to conclude ſtedfaſtly,</p>
+               <closer>
+                  <signed>Your Majeſty's moſt Devoted, Obedient, and Firm Subjects and Servants.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's moſt Excellent Majeſty,</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Addreſs of the Gentlemen of the Grand Jury, for the County of Kent, at the Aſ<g ref="char:EOLhyphen"/>ſizes held at</hi> Rocheſter, Aug. <hi>the 6th. 1688.</hi>
+                  </p>
+               </argument>
+               <opener>
+                  <salute>Moſt Gracious Sovereign,</salute>
+               </opener>
+               <p>IF abundant Duty in ſome, or too little in others, have hitherto retarded an Una<g ref="char:EOLhyphen"/>nimous Addreſs, and that juſt Tribute of Veneration, which all your Subjects owe, and moſt have chearfully paid your Majeſty for a thouſand Princely Favours; but a<g ref="char:EOLhyphen"/>bove all, for your Univerſal Indulgence, and more than Fatherly Tenderneſs, even towards the moſt froward and undeſerving. The Birth of a Royal Infant now opens all our Eyes, our Hearts and Mouths, to ſee and admire, and publiſh as well the pro<g ref="char:EOLhyphen"/>pitious Conduct of Heaven over your Sacred Majeſty, as your Majeſty's over us; both which inſtead of reſenting paſt Ingratitudes, go on ſtill ſhowring new Bleſſings on our Heads.</p>
+               <p>Permit us then, Great Sir! to throw our ſelves at your Majeſty's Feet, and proſtrate, with all Humility, tender you, and your Royal Conſort, unfeigned, tho' late, Congra<g ref="char:EOLhyphen"/>tulations, for the ineſtimable Jewel you have beſtowed upon us.</p>
+               <p>Long may our Illuſtrious Prince live, Heaven's Darling, as well as ours; and, by inheriting the Heroick Vertues of his Auguſt Parents, ſecure to future Ages the Happi<g ref="char:EOLhyphen"/>neſs your moſt Serene Government has reſtored to ours.</p>
+               <p>And indeed, what can hereafter trouble <hi>England's</hi> Peace, when, to its Impregnable, Native Strength, you ſhall have added the more Invincible, and, in manner, Supernatu<g ref="char:EOLhyphen"/>ral Union of all <hi>Engliſh</hi> Hearts?</p>
+               <p>That your approaching Parliament, Sir, may readily concur with your Majeſty's Gra<g ref="char:EOLhyphen"/>cious Deſigns, in order thereto, ſhall be the Great Endeavour, as well as the Fervent Prayer of.</p>
+               <closer>
+                  <signed>Your Majeſty's moſt Dutiful and Loyal Subjects.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <pb n="14" facs="tcp:44081:9"/>
+               <head>To the KING's moſt Excellent Majeſty,</head>
+               <argument>
+                  <p>
+                     <hi>The Humble and Congratulatory Addreſs of the High Sheriff, Deputy Lieutenants, Juſtices of the Peace, and the Grand Jury of the County of</hi> Hereford, <hi>at the Aſſizes held at</hi> Hereford, <hi>on the 8th. day of</hi> Auguſt, <hi>in the 4th. Year of Your Majeſty's moſt Happy Reign.</hi>
+                  </p>
+               </argument>
+               <opener>
+                  <salute>Moſt Dread Sovereign,</salute>
+               </opener>
+               <p>WE Your Majeſty's Leige People muſt acknowledge, that it is our Duty to manifeſt our Reſentment to your Sacred Majeſty, after our Thanskſgiving to Almighty God (by whom Princes reign) for ſuch a tranſcendent Mercy and Favour from Heaven, as the Birth of his Royal Highneſs the Prince of <hi>Wales,</hi> is, to Your Majeſty and theſe King<g ref="char:EOLhyphen"/>doms; eſpecially, when we conſider that it falls upon us after ſo many evident and gracious Signals of Divine Providence, not only in the Manifold and Miraculous Preſer<g ref="char:EOLhyphen"/>vation of your Majeſty's Royal Perſon, but in the Eſtabliſhment of your Majeſty upon the Throne of your Glorious Anceſtors: Inſomuch that we may juſtly raiſe ſome Con<g ref="char:EOLhyphen"/>fidence in our ſelves (except obdurate Malice prevails) the Eyes of moſt thoughtful Men will be opened to ſee the concurrence of the ſame Providence, attending your Majeſty in thoſe your Royal, Great, and Good Intentions, for the Honour, Welfare, Peace, and Happineſs of this Nation, ſignified in your Majeſty's late gracious Declaration: Humbly aſſuring your Majeſty, we ſhall uſe our utmoſt Endeavours to elect ſuch Repreſentatives, as may comply with your Majeſty in ſo Glorious a Work, and always remain</p>
+               <closer>
+                  <signed>Your moſt Dutiful and Loyal Subjects.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING'S moſt Excellent Majeſty,</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Addreſs of the Grand Jury, at the General Quarter Seſſions of the Peace holden for the Borough of Devizes in the County of</hi> Wilts, <hi>in the</hi> Guild-Hall <hi>of the ſaid Borough, the 20th. day of</hi> July 1688, <hi>in the 4th. Year of Your Majeſty's Reign.</hi>
+                  </p>
+               </argument>
+               <opener>
+                  <salute>Great Sir,</salute>
+               </opener>
+               <p>WE ſtill enjoying the good Effects of your Majeſty's Declaration of Liberty of Con<g ref="char:EOLhyphen"/>ſcience, do continue our Thanks to God for inclining your Royal Heart to do that, by which the Fears of many are vaniſhed, and more than was expected is enjoy'd.</p>
+               <p>And ſince it hath Pleaſed Almighty God to bleſs your Majeſty with a Son, and us with a Prince, which we hope is an ineffable Bleſſing to this Nation, we can do no leſs, and by this we do humbly congratulate your Majeſty and your Royal Conſort on this Occaſion. Now that Heaven may ſo preſerve this Prince, that when your Majeſty (whoſe Life God long preſerve) ſhall fall aſleep with your Royal Anceſtors, he may ſway the Sceptre of theſe Realms and Dominions, with ſuch Wiſdom, Juſtice, and Piety, that his Name may be eternized, ſhall be the Prayer of</p>
+               <closer>
+                  <signed>Your Majeſty's moſt Loyal, and Obedient Subjects. </signed>
+                  <signed>
+                     <hi>We the Mayor, Aldermen, and Burgeſſes of the aforeſaid Borough, having ſeen the aforeſaid Ad<g ref="char:EOLhyphen"/>dreſs, do concurr therewith: And in Teſtimony thereof, have ſet our Common Seal of the Cor<g ref="char:EOLhyphen"/>poration in the</hi> Guild-Hall, <hi>aforeſaid, </hi>
+                  </signed>
+                  <date>
+                     <hi>this 28th. day of</hi> July, Anno Domini, 1688.</date>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING'S moſt Excellent Majeſty,</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Addreſs of the Mayor, Aldermen, and Common Council of Your Majeſty's Ancient and Loyal City of</hi> Hereford.</p>
+               </argument>
+               <opener>
+                  <salute>Moſt Gracious Sovereign,</salute>
+               </opener>
+               <p>WE beſeech your Majeſty to ſuffer us (amongſt the reſt of your Loyal Subjects) thus humbly and publickly to expreſs our grateful Senſe of that happy Addition, which it has pleaſed God to make to the Royal Family, by giving your Majeſty and your Kingdoms the deſirable Bleſſing of a Prince to inherit your Royal Vertues and Do<g ref="char:EOLhyphen"/>minions: And moſt humbly pray that your Royal Iſſue may grow more and more nume<g ref="char:EOLhyphen"/>rous to ſucceed to your Imperial Crown in all future Generations.</p>
+               <p>We likewiſe crave your Majeſty's leave (once more) thankfully to acknowledge thoſe invaluable Bleſſings we enjoy under your Majeſty's moſt Gracious Government.</p>
+               <p>And do moſt humbly aſſure your Sacred Majeſty, that as this Place has heretofore been plunder'd and ranſack'd again and again, for their unalterable Fidelity to the Crown, ſo we will ever owe Dutiful and Loyal Obedience to your Majeſty, Your Heirs, and Lawful Succeſſors.</p>
+               <closer>
+                  <signed>In Teſtimony whereof, we have hereunto put our Common Seal at the <hi>Guild-Hall</hi> of your ſaid City</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <pb n="15" facs="tcp:44081:9"/>
+               <head>To the KING'S moſt Excellent Majeſty,</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Addreſs of the Council and Aſſembly of Your Majeſty's Iſland of</hi> Jamaica, <hi>convened under his Grace the Duke of</hi> Albemarle.</p>
+               </argument>
+               <opener>
+                  <salute>Moſt Gracious Sovereign,</salute>
+               </opener>
+               <p>WE your Majeſty's moſt Dutiful Subjects of this new World, warmed by the Be<g ref="char:EOLhyphen"/>nign Influence of your Royal Beams, (from which no diſtance of Place can ſeclude us) do in all humble and grateful Manner acknowledge the continuance of that unparelled Bleſſing, the Protection of the Church of <hi>England,</hi> given to us by your Roy<g ref="char:EOLhyphen"/>al Word at your happy Acceſſion to the Crown, and alſo for the Toleration and gene<g ref="char:EOLhyphen"/>ral Indulgence of Religion your Majeſty hath been pleaſed to grant the reſt of our Fel<g ref="char:EOLhyphen"/>low Subjects.</p>
+               <p>Royal Sir, We cannot conclude here without further acknowledging unto your Ma<g ref="char:EOLhyphen"/>jeſty the tranſcendent Honour done unto this Infant Colony in appointing ſo Illuſtrious a Prince to govern us; from whoſe Care and Conduct, with the continuance of your Majeſties unparallel'd Favours towards us, we may juſtly hope for many Advantages promiſing on our Parts, (as we hereby do) a never to be ſhaken Loyalty to your Ma<g ref="char:EOLhyphen"/>jeſty, due Obedience to his Grace, and our heartly Endeavours, for the good and preſer<g ref="char:EOLhyphen"/>vation of this your Majeſties Iſlands, Praying unto Almighty God for a long continu<g ref="char:EOLhyphen"/>ance of your happy Reign over us, and that there may never be wanting of your Roy<g ref="char:EOLhyphen"/>al Iſſue to ſit upon the Throne from Generation to Generation. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING'S moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Addreſs of the major Part of the Grand Jury of</hi> Cumberland, <hi>at the general Aſſi<g ref="char:EOLhyphen"/>zes held at</hi> Carliſle <hi>The 21ſt. of</hi> Auguſt 1688.</p>
+               </argument>
+               <opener>
+                  <salute>May it pleaſe Your Majeſty,</salute>
+               </opener>
+               <p>WE your Majeſty's moſt Dutiful and Loyal Subjects, humbly beg leave that we may heartily Congratulate your Majeſty, and your Royal Conſort, and offer our moſt humble and due Thanks to God Almighty, for ſending your Majeſty a Son, and us a Prince, to be your Majeſty's Succeſſor to your Crown and Vertues, a Bleſſing not more joyfully received, than earneſtly deſired, to quiet and compoſe all reſtleſs and diſorderly Spirits, That your Majeſty, and the whole Nation, may reap the Benefit of your moſt Gracious Declaration: And we will uſe our utmoſt Endeavours to elect ſuch Members for your Majeſty's next Parliament, as ſhall make your Majeſty moſt happy, and your Subjects ea<g ref="char:EOLhyphen"/>ſie. We do alſo cordially rejoice in the joyful Deliverance of the Prince from his late dangerous Indiſpoſition; not doubting but God will bleſs him with a long and heathful Life, to the great Comfort of your moſt Sacred Majeſty, and all your Loyal Subjects. May your Majeſty enjoy the greateſt and utmoſt Bleſſings this World can afford, with whatever is moſt dear to your Sacred Majeſty, and alſo a long and peaceable Reign over us: So prays your Majeſty's moſt Dutiful and Loyal Subjects, as we ſhall ever be ready to manifeſt when Occaſion calls with our Lives and Fortunes, in Defence of your Perſon, and your Heirs, in your Majeſty's Prerogatives, againſt all Oppoſers whatſoever.</p>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING'S moſt Excellent Majeſty,</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Addreſs of the Lord Mayor, Aldermen, and Burgeſſes of the Borough of</hi> Sudbury, <hi>in the County of</hi> Suffolk.</p>
+               </argument>
+               <opener>
+                  <salute>Great Sir.</salute>
+               </opener>
+               <p>ALmighty God having bleſſed your Majeſty and your Royal Conſort our gracious Queen, with a Son, and your People with a Prince. We with all Alacrity agree<g ref="char:EOLhyphen"/>able to the Happineſs, and with Duty, and Humility which becomes Loyal, and Obe<g ref="char:EOLhyphen"/>dience Subjects, do congratulate your Majeſty. Such Bleſſings are from Heaven, the Re<g ref="char:EOLhyphen"/>wards of Virtue, of which your Majeſty hath given this Nation many and Signal Teſtimo<g ref="char:EOLhyphen"/>nies, particularly, and for which we have brought our Hearty and Unfeigned Thanks, in that your Majeſty hath been graciouſly pleaſed to declare, that you will Protect and main<g ref="char:EOLhyphen"/>tain the Church of <hi>England,</hi> as now by Law Eſtabliſhed, and all other your Majeſty's Sub<g ref="char:EOLhyphen"/>jects, in the free Exerciſe of their Religion, and in the Peaceable Enjoyment of their Civil Rights and Properties. And as your Majeſty intends to entail theſe Bleſſings upon your People, by a Law; ſo we do aſſure your Majeſty that when in your Princely Wiſ<g ref="char:EOLhyphen"/>dom, you ſhall think convenient to call a Partlament, we will heartily endeavour to chuſe ſuch Members as ſhall concurr with your Majeſty therein. And it ſhall ever be our Prayers that your Majeſty's Reign may be long and proſperous: That our Prince may inherit your Inimitable Virtues with the Crowns, and both enjoy a Crown of Glory.</p>
+            </div>
+            <div type="statement_of_congratulation">
+               <pb n="16" facs="tcp:44081:10"/>
+               <head>To the KING and QUEENS Moſt Excelient Majeſties,</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Congratulation of the Lord Lieutenant, the Deputy Lieutenant, the High Sheriff, and the Grand Inqueſt, with the reſt of the Juſtices of the Peace, and Gentlemen of your Majeſties County Palatinate of</hi> Lancaſter, <hi>holden at the general Aſſizes this 29th day of</hi> Auguſt 1688.</p>
+               </argument>
+               <opener>
+                  <salute>Dread Sovereign,</salute>
+               </opener>
+               <p>Nothing but the want of a more early Opportunity of repreſenting the Body of this County, could have with-held your Majeſties moſt Loyal and Joyful Subjects, from a more ſpeedy Congratulation of your Majeſty, and your Royal Conſort, upon the Birth of the Prince of <hi>Wales;</hi> Succeſſion in the Right Line has been the Care, and now immediately from your Majeſty is the Joy, not only of us, but of all your Dominions, the tranſports of Eorreign Courts, upon this Illuſtrious Birth is an early preſage, that his Fame ſhall be more extended, and his Virties more ſhining, than their Illuminations. May his Heroick Endowments fill all Europe with Terror and Regard, yout Majeſties with Comfort and Satisfaction, and your Dominion with Peace, Security, and Happi<g ref="char:EOLhyphen"/>neſs, till time ſhall be no more, which ſhall be the faithful Endeavour, and laſting Prayer of</p>
+               <closer>
+                  <signed>your Majeſties moſt dutiful Subjects and Faithful Servants.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's Moſt Excellent Majeſty.</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Addreſs of your Majeſties Corporation of Garſtang in the County Palatine of</hi> Lancaſter.</p>
+               </argument>
+               <opener>
+                  <salute>Great Sir,</salute>
+               </opener>
+               <p>IT has been the Singular Happineſs of this Corporation, that how often ſo ever we have hither to approached your Royal Feet, with the tender of our Duty and Loyalty, we were always diſmiſſed with the Comfort of your Majeſty's gracious Acceptance: Theſe former Encouragemeets, together with the Happy News of the Birth of the Illuſtious Prince of <hi>Wales,</hi> has doubled both our Duty and Diligence, to return again with Joy and Satisfaction to your Sacred Feet, humbly to congratulate both your Majeſty and your Royal Conſort of this Happy Occaſion.</p>
+               <p>May Heaven bleſo both your Majeſty and theſe Kingdoms, in fixing the Throne, and advancing the Crown, by a name pous Iſſe: the growing Virtues, and exemplary Conduct of his Royal Highneſs, in future Times add Comfort to your Majeſty years, relieve the Cares and Toil of the Scepter, ingage the Affections, and fix the Loyalty. of your Subjects:</p>
+               <closer>
+                  <signed>So pray your Majeſty's ever Loyal Subjects and Dutiful humble Servants.</signed>
+               </closer>
+            </div>
+            <div type="statement_of_congratulation">
+               <head>To the KING's Moſt Excellent Majeſty,</head>
+               <argument>
+                  <p>
+                     <hi>The Humble Addreſs of the Lord Lieutenant, High Sheriff, Deputy Lieutenant, Juſtices of the Peace, and Grand Jury of the County of</hi> Northumberland, <hi>aſſembled at the Aſſizes held at the Caſtle of</hi> Newcaſtle <hi>for that County the 13th day of</hi> Auguſt 1688.</p>
+               </argument>
+               <opener>
+                  <salute>Great Sir.</salute>
+               </opener>
+               <p>HAving already with moſt ſincere Devotion pald our Acknowledgments to God Almighty, the Father of Mercies; we come now moſt humbly Proſtrate at your Ma<g ref="char:EOLhyphen"/>jeſty's Feet, to offer our hearty Congratulations, to your Majeſty and Royal Comfort, for the ineſtimable bleſſing of a Prince of <hi>Wales,</hi> a Prince given by divine Providence, to the Prayers of your Kingdoms, to perpetuate your Majeſty Glory, and our Felicity: May he ſo thrive, (and we doubt it not) under the Great Examples of your Maje<g ref="char:EOLhyphen"/>ſties Piety and Prudence, that you your ſelf may live to ſee him conſummate in all the true Arts of Government. We further promiſe with the beſt of our endeavours to ſend ſuch Members to the next Parliament, as will Co-operate with your Majeſties gracious Intentions, (according to your Royal Declaration) in repealing the Penal Laws and Teſt, as Obſtacles to your Majeſties Glory and equal Juſtice, as well as to our Eaſe and Happineſs, well knowing that your Majeſty will heal us as a moſt Indulgent and Impar<g ref="char:EOLhyphen"/>tial Father doth his many Sons, giving every one a ſhare in his Eſteem and Affection, according to their particular Merits and Qualifications.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
